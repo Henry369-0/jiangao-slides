@@ -1,0 +1,4 @@
+interface:
+  display_name: "见稿 · JianGao"
+  short_description: "为中文答辩、工作汇报和个人分享写讲稿、定样页，做成能局部修改的 PPT"
+  default_prompt: "用 $jiangao-slides 把这份材料做成可编辑的中文演示，先写到能讲，再用整页样图定风格。"
